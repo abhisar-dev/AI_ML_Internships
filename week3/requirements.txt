@@ -1,5 +1,4 @@
 Numpy
 Pandas
 Streamlit
-Python
 PyPdf
