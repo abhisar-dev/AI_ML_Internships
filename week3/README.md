@@ -16,3 +16,5 @@ An AI-powered study assistant built with Streamlit.
 - Python
 - Streamlit
 - PyPDF
+- ## Live Demo
+- https://abhisar-ai-lab.streamlit.app/
